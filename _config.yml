@@ -14,8 +14,11 @@ menus:
     name: 首页
     link: /
   - 1:
+    name: 文档
+    link: /wiki/
+  - 2:
     name: 主站
     link: https://www.natfrp.com/
-  - 2: 
-    name: 关于
-    link: /about/
+  # - 3: 
+  #   name: 关于
+  #   link: /about/
