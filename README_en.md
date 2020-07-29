@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Sakura Frp"
 permalink: /en/
+---
 
 # Sakura Frp
 
