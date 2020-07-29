@@ -1,5 +1,7 @@
 # Sakura Frp
 
+简体中文 | [English](/en/)
+
 ## 使用帮助
 
 + 启动器使用方法：[图文教程](https://blog.berd.moe/archives/sakura-frp-launcher-user-guide/)
@@ -11,3 +13,6 @@
 
 **More on [natfrp.com](https://www.natfrp.com/?from=natfrp.github.io)**
 
+## 链接
+
++ [使用咨询](https://owq.moe/channel/Natfrp)
