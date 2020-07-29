@@ -2,7 +2,6 @@
 layout: page
 title: "Sakura Frp"
 permalink: /en/
-theme: jekyll-theme-minimal
 ---
 
 # Sakura Frp
