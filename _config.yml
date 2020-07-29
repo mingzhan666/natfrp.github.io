@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: Sakura Frp
 description: 免费的内网穿透服务，轻松在自家电脑搭建网站。
 
-# lang: zh-CN
+lang: zh-CN
