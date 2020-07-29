@@ -4,8 +4,6 @@ title: "Sakura Frp"
 permalink: /en/
 ---
 
-# Sakura Frp
-
 [简体中文](/) | English
 
 ## Help
